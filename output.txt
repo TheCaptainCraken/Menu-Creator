@@ -1,0 +1,43 @@
++-----------+--------------------------+--------------------------+
+| Giorno    |          Pranzo          |           Cena           |
++-----------+--------------------------+--------------------------+
+| Lunedì    | Pasta al tonno           | Bresaola                 |
++-----------+--------------------------+--------------------------+
+| Martedì   | Lasagne                  | Spaghetti alle vongole   |
++-----------+--------------------------+--------------------------+
+| Mercoledì | Risotto allo zafferano   | Hamburger di carne       |
++-----------+--------------------------+--------------------------+
+| Giovedì   | Riso ai frutti di mare   | Cordon bleu              |
++-----------+--------------------------+--------------------------+
+| Venerdì   | Pasta al ragù di carne   | Asporto                  |
++-----------+--------------------------+--------------------------+
+| sabato    | Pasta al pesto           | Frittata con le zucchine |
++-----------+--------------------------+--------------------------+
+| Domenica  | Pollo arrosto e patatine | Polepttone               |
++-----------+--------------------------+--------------------------+
+
+Lista della spesa
+=================
+- 3 × scatoletta di tonno
+- 1 × triangolo di formaggio
+- 2 × confezione di riso
+- 1 × pacchetto di zafferano
+- 1 × panetto di burro
+- 5 × sacchetto di parmigiano grattuggiato
+- 3 × lasagna dell'Esselunga
+- 2 × confezione di pasta
+- 1 × barattolo di sugo al ragù di carne
+- 2 × confezione di uova da 6
+- 1 × pollo arrosto
+- 1 × sacco di patate
+- 1 × porzione di pesto
+- 1 × confezione di pane da hamburger
+- 1 × sacchetto di pomodori
+- 4 × vaschetta di cordon bleau
+- 1 × confezione di spaghetti
+- 1 × vaschetta di macinato
+- 3 × vaschetta di frutti di mare
+- 1 × vaschetta di hamburger
+- 4 × vaschetta di bresaola
+- 4 × vaschetta di vongole
+
